@@ -9,7 +9,7 @@ CineMate is an agentic LLM application built with LangChain. The user describes 
 want in natural language ("some science-fiction movies"). An LLM agent decides when it needs
 facts, calls a TMDB tool to retrieve real movie data, and then explains personalised
 recommendations grounded in that data. Follow-ups such as "only after 2020" or
-"under 2 hours" will refine the results through conversational memory
+"under 2 hours" will refine the results through conversational memory.
 
 ## Phase 2 Objective
 
